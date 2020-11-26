@@ -1,4 +1,4 @@
-# NDLR Control Modules for Ableton
+# NDLR Control Modules for Max for Live
 
 ## Abstract
 
