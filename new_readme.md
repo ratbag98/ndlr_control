@@ -41,14 +41,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ratbag98/ndlr_control/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/ratbag98/ndlr_control/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ratbag98/ndlr_control/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ratbag98/ndlr_control/issues">Request Feature</a>
   </p>
 </p>
 
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/ratbag98/ndlr_control/.git
    ```
 2. Install NPM packages
    ```sh
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Robert Rainthorpe - [email](mailto:rob.rainthorpe@me.com) - email
 
-Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratbag98/ndlr_control/issues)
+Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratbag98/ndlr_control)
 
 
 
