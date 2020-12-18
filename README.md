@@ -43,7 +43,7 @@
     <a href="https://github.com/ratbag98/ndlr_control/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ratbag98/ndlr_control/">View Demo</a>
+    <a href="https://github.com/ratbag98/ndlr_control/">View Demo (maybe one day)</a>
     ·
     <a href="https://github.com/ratbag98/ndlr_control/issues">Report Bug</a>
     ·
