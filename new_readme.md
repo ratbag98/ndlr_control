@@ -25,7 +25,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -36,10 +35,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">NDLR Control</h3>
 
   <p align="center">
-    project_description
+    Control and automate the NDLR's CC parameters via Max4Live
     <br />
     <a href="https://github.com/ratbag98/ndlr_control/"><strong>Explore the docs »</strong></a>
     <br />
@@ -87,17 +86,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`ratbag98`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+A Max4Live MIDI Instrument to view and control CC parameters on the NDLR
+sequencer.
 
 ### Built With
 
 * [Ableton Live 10]()
 * [Max for Live 8]()
 * [Microsoft VSCode]()
-
 
 
 <!-- GETTING STARTED -->
@@ -107,24 +103,14 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* The NDLR must be running firmware version 1.1.071 or newer. This is a beta firmware.
+* Built using Ableton 10.1.30 and Max4Live 8.1.7. Untested with previous versions
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/ratbag98/ndlr_control/.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+Put the NDLR CC Control.amxd file somewhere Ableton can see it.
 
-
+#TODO list some typical places to put amxd files.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -193,5 +179,3 @@ Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratb
 [issues-url]: https://github.com/ratbag98/ndlr_control/issues
 [license-shield]: https://img.shields.io/github/license/ratbag98/repo.svg?style=for-the-badge
 [license-url]: https://github.com/ratbag98/ndlr_control/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ratbag98
