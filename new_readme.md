@@ -115,9 +115,18 @@ Put the NDLR CC Control.amxd file somewhere Ableton can see it.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+MIDI track - set in to "Retrieve" settings (eg Port1, Channel 14). Set out
+to NDLR Cntrl settings (eg Port1, Channel 15). Set Monitor to in.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Then add the Device to the MIDI track.
+
+Set the Retrieve information appropriately and click Retrieve.
+
+Click on all 4 control pads to enable playback.
+
+Optionally set the Volca.
+
+_For more examples, please refer to the [Wiki](https://github.com/ratbag98/ndlr_control/wiki)_
 
 
 
@@ -146,7 +155,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+#TODO select the most open licence I can find.
 
 <!-- CONTACT -->
 ## Contact
