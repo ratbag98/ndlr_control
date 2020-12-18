@@ -148,33 +148,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-#TODO select the most open licence I can find.
-
 <!-- CONTACT -->
 ## Contact
 
-Robert Rainthorpe - [email](mailto:rob.rainthorpe@me.com)
+Robert Rainthorpe - use [open issues](https://github.com/ratbag98/ndlr_control/issues) or the [NDLR community forum thread](https://conductivelabs.com/forum/showthread.php?tid=1251) to communicate.
 
 Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratbag98/ndlr_control)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * [Jesse Johannesen](https://conductivelabs.com/forum/member.php?action=profile&uid=970)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
