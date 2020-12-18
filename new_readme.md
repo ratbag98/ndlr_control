@@ -124,7 +124,11 @@ Set the Retrieve information appropriately and click Retrieve.
 
 Click on all 4 control pads to enable playback.
 
-Optionally set the Volca.
+Optionally set the Volca Velocity control.
+
+The available parameters are listed in Appendix A of the [NDLR's User Manual](https://conductivelabs.com/wp-content/uploads/2020/02/The-NDLR-User-Manual-v1.7.pdf).
+There are some issues with the documentation currently, take a look at [this issue](https://github.com/ratbag98/ndlr_control/issues/1) for
+more details.
 
 _For more examples, please refer to the [Wiki](https://github.com/ratbag98/ndlr_control/wiki)_
 
