@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 A Max4Live MIDI Instrument to view and control CC parameters on the [NDLR
 sequencer](https://conductivelabs.com/).
