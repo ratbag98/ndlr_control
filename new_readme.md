@@ -86,8 +86,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A Max4Live MIDI Instrument to view and control CC parameters on the NDLR
-sequencer.
+A Max4Live MIDI Instrument to view and control CC parameters on the [NDLR
+sequencer](https://conductivelabs.com/).
 
 ### Built With
 
@@ -163,8 +163,9 @@ Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratb
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Jesse Johannesen](https://conductivelabs.com/forum/member.php?action=profile&uid=970)
-* [othneildrew](https://github.com/othneildrew/Best-README-Template)
+* [Conductive Labs](https://conductivelabs.com/), creators of the NDLR
+* [Jesse Johannesen](https://conductivelabs.com/forum/member.php?action=profile&uid=970), forum moderator and helpful soul
+* [othneildrew](https://github.com/othneildrew/Best-README-Template), for the README template
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
