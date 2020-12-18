@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ratbag98/ndlr_control">
-    <img src="images/logo.png" alt="Logo" width="108" height="74">
+    <img src="images/logo.png" alt="Logo" width="74" height="108">
   </a>
 
   <h3 align="center">NDLR Control</h3>
