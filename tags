@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/86bdb84/
+About The Project	README.md	/^## About The Project$/;"	s
+Abstract	old_readme.md	/^## Abstract$/;"	s	chapter:NDLR Control Modules for Max for Live
+Acknowledgements	README.md	/^## Acknowledgements$/;"	s
+Built With	README.md	/^### Built With$/;"	S	section:About The Project
+Contact	README.md	/^## Contact$/;"	s
+Contributing	README.md	/^## Contributing$/;"	s
+Control interactions	old_readme.md	/^### Control interactions$/;"	S	section:NDLR Control Modules for Max for Live""Notes
+Docs	old_readme.md	/^### Docs$/;"	S	section:NDLR Control Modules for Max for Live""Notes
+Getting Started	README.md	/^## Getting Started$/;"	s
+Installation	README.md	/^### Installation$/;"	S	section:Getting Started
+License	README.md	/^## License$/;"	s
+NDLR Control Modules for Max for Live	old_readme.md	/^# NDLR Control Modules for Max for Live$/;"	c
+Notes	old_readme.md	/^## Notes$/;"	s	chapter:NDLR Control Modules for Max for Live
+Prerequisites	README.md	/^### Prerequisites$/;"	S	section:Getting Started
+Roadmap	README.md	/^## Roadmap$/;"	s
+Setup	old_readme.md	/^## Setup$/;"	s	chapter:NDLR Control Modules for Max for Live
+Startup	old_readme.md	/^### Startup$/;"	S	section:NDLR Control Modules for Max for Live""Notes
+Usage	README.md	/^## Usage$/;"	s
