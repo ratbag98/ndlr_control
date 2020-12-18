@@ -108,38 +108,18 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Put the NDLR CC Control.amxd file somewhere Ableton can see it.
+Put the NDLR CC Control.amxd file somewhere Ableton can see it. For more details, see [wiki](wiki/installation).
 
-#TODO list some typical places to put amxd files.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-MIDI track - set in to "Retrieve" settings (eg Port1, Channel 14). Set out
-to NDLR Cntrl settings (eg Port1, Channel 15). Set Monitor to in.
-
-Then add the Device to the MIDI track.
-
-Set the Retrieve information appropriately and click Retrieve.
-
-Click on all 4 control pads to enable playback.
-
-Optionally set the Volca Velocity control.
-
-The available parameters are listed in Appendix A of the [NDLR's User Manual](https://conductivelabs.com/wp-content/uploads/2020/02/The-NDLR-User-Manual-v1.7.pdf).
-There are some issues with the documentation currently, take a look at [this issue](https://github.com/ratbag98/ndlr_control/issues/1) for
-more details.
-
-_For more examples, please refer to the [Wiki](https://github.com/ratbag98/ndlr_control/wiki)_
-
-
+See the [wiki](wiki).
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/ratbag98/ndlr_control/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
