@@ -108,13 +108,13 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Put the NDLR CC Control.amxd file somewhere Ableton can see it. For more details, see [wiki](wiki/installation).
+Put the NDLR CC Control.amxd file somewhere Ableton can see it. For more details, see [wiki](https://github.com/ratbag98/ndlr_control/issues/wiki/installation).
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-See the [wiki](wiki).
+See the [wiki](https://github.com/ratbag98/ndlr_control/issues/wiki).
 
 <!-- ROADMAP -->
 ## Roadmap
