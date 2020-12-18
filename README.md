@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 A Max4Live MIDI Instrument to view and control CC parameters on the [NDLR
 sequencer](https://conductivelabs.com/).
@@ -109,7 +109,6 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 Put the NDLR CC Control.amxd file somewhere Ableton can see it. For more details, see [wiki](https://github.com/ratbag98/ndlr_control/wiki/installation).
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -163,4 +162,4 @@ Project Link: [https://github.com/ratbag98/ndlr_control](https://github.com/ratb
 [issues-url]: https://github.com/ratbag98/ndlr_control/issues
 [license-shield]: https://img.shields.io/github/license/ratbag98/ndlr_control.svg?style=for-the-badge
 [license-url]: https://github.com/ratbag98/ndlr_control/blob/master/LICENSE.txt
-[product-screenshot]:  https://raw.githubusercontent.com/ratbag98/ndlr_control/master/UI/prerelease/20201218_main.png
+[product-screenshot]:  https://raw.githubusercontent.com/ratbag98/ndlr_control/master/UI/prerelease/tabs.gif
