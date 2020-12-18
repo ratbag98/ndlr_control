@@ -40,7 +40,7 @@
   <p align="center">
     Control and automate the NDLR's CC parameters via Max4Live
     <br />
-    <a href="https://github.com/ratbag98/ndlr_control/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ratbag98/ndlr_control/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ratbag98/ndlr_control/">View Demo</a>
@@ -91,9 +91,9 @@ sequencer](https://conductivelabs.com/).
 
 ### Built With
 
-* [Ableton Live 10]()
-* [Max for Live 8]()
-* [Microsoft VSCode]()
+* [Ableton Live 10](https://www.ableton.com/)
+* [Max for Live 8](https://www.ableton.com/en/live/max-for-live/)
+* [Microsoft VSCode](https://code.visualstudio.com/)
 
 
 <!-- GETTING STARTED -->
@@ -103,7 +103,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* The NDLR must be running firmware version 1.1.071 or newer. This is a beta firmware.
+* The NDLR must be running firmware version 1.1.071 or newer. This is a beta firmware. See [the forum](https://conductivelabs.com/forum/showthread.php?tid=235)
 * Built using Ableton 10.1.30 and Max4Live 8.1.7. Untested with previous versions
 
 ### Installation
